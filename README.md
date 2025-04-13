@@ -1,6 +1,8 @@
 # 使い方
 ## 問題ごとにクレートを追加
-`cargo new problems/abc000_a`
+- ディレクトリをコピペするのが良さそう
+- Cargo.tomlはワークスペースで共有化できないっぽい
+- TODO: スクリプト書いても良い
 
 ## 実行
 `cargo run -p abc000_a`
